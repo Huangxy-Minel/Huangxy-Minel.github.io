@@ -6,6 +6,7 @@ author: Xinyang Huang
 color: rgb(154,133,255)
 cover: '../assets/guide_device1.JPG'
 tags: Project
+typora-root-url: ..\assets
 ---
 
 # A summary: Oct.2018 - Oct.2019
@@ -20,7 +21,7 @@ Complete project: https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-De
 
 ​	The vision system uses Openmv, a lightweight vision module based on Python. Official Website is https://openmv.io/. We used it to implement image recognition, Apriltag positioning and other functions.
 
-<img src="D:\Git\GitWorkspace\Huangxy-Minel.github.io\assets\img\openmv.jpg" alt="openmv" style="zoom:50%;" />
+![](https://huangxy-minel.github.io/assets/img/openmv.jpg)
 
 ## GPS & Inertial Navigation & Vision Navigation System
 
@@ -28,7 +29,7 @@ Complete project: https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-De
 
 ​	GPS navigation is already a very mature technology. Here we directly implement navigation through the Google Maps API. Compared with GPS, indoor positioning and navigation always have problems such as instability, position shift, and inability to eliminate errors. Therefore, the Kalman filter and visual positioning technology are introduced in the traditional inertial navigation mode.
 
-![guide_device2](D:\Git\GitWorkspace\Huangxy-Minel.github.io\assets\img\guide_device2.jpg)
+![guide_device2](https://huangxy-minel.github.io/assets/img/guide_device2.jpg)
 
 ## 
 
@@ -38,7 +39,7 @@ Complete project: https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-De
 
 ​	The picture below is a brochure we used for publicity at the time, designed by Wenjing Lu & Hang Lu.
 
-![guide_device3](D:\Git\GitWorkspace\Huangxy-Minel.github.io\assets\img\guide_device3.png)![guide_device4](D:\Git\GitWorkspace\Huangxy-Minel.github.io\assets\img\guide_device4.png)
+![guide_device3](https://huangxy-minel.github.io/assets/img/guide_device3.png)![guide_device4](https://huangxy-minel.github.io/assets/img/guide_device4.png)
 
 
 
