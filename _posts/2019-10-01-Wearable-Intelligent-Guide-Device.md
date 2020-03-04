@@ -13,13 +13,13 @@ typora-root-url: ..\assets
 
 ### Researcher and Team leader, Chengdu, China
 
-Complete project: https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-Device
+Complete project: [https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-Device](https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-Device)
 
 ## Thermal Imaging Vision & Ultrasonic Obstacle Avoidance System
 
 ​	Designed Thermal Imaging Vision & Ultrasonic Obstacle Avoidance System, which recognized obstacle types through neural network algorithms, and measured distance to obstacles via the ultrasound system with accuracy 1 cm.  
 
-​	The vision system uses Openmv, a lightweight vision module based on Python. Official Website is https://openmv.io/. We used it to implement image recognition, Apriltag positioning and other functions.
+​	The vision system uses Openmv, a lightweight vision module based on Python. Official Website is [https://openmv.io/](https://openmv.io/). We used it to implement image recognition, Apriltag positioning and other functions.
 
 ![](https://huangxy-minel.github.io/assets/img/openmv.jpg)
 
@@ -37,7 +37,7 @@ Complete project: https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-De
 
 ​	From June to October 2019, we participated “Challenge Cup” Science and Technology Competition and "Internet +" Innovation Competition. The former is a technical competition, the latter is an entrepreneurial competition. After 4 months of struggle, although we have experienced many setbacks, we have also achieved good results in the end.
 
-​	The picture below is a brochure we used for publicity at the time, designed by Wenjing Lu & Hang Lu.
+​	The picture below is a brochure we used for publicity at the time, designed by **Wenjing Lu** & **Hang Lu**.
 
 ![guide_device3](https://huangxy-minel.github.io/assets/img/guide_device3.png)![guide_device4](https://huangxy-minel.github.io/assets/img/guide_device4.png)
 
