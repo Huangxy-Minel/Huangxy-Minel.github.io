@@ -8,9 +8,9 @@ cover: '../assets/photo.jpeg'
 tags: Me
 ---
 
-​	Welcome to my blog! I'm Xinyang Huang, a junior majoring in Network Engineering at the University of Electronic Science and Technology of China.
+Welcome to my blog! I'm Xinyang Huang, a junior majoring in Network Engineering at the University of Electronic Science and Technology of China.
 
-​	You can browse my CV by click [this](https://huangxy-minel.github.io/assets/CV_Xinyang-Huang.pdf). 
+You can browse my CV by click [this](https://huangxy-minel.github.io/assets/CV_Xinyang-Huang.pdf). 
 
 ## ABOUT ME
 
