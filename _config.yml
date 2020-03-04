@@ -25,20 +25,20 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'huangxy_minel@foxmail.com'
-  weixin: '' # 你的微信二维码存放的地址
+#  mail: 'huangxy_minel@foxmail.com'
+#  weixin: '' # 你的微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
-  Codepen: ''
-  weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+ # Codepen: ''
+ # weibo: ''
+ # instagram: ''
+ # Twitter: ''
+ # Dribbble: ''
+ # Facebook: ''
+ # Google: ''
+ # zhihu: ''
+ # juejin: ''
+ # twitch: ''
 
 # 分页
 paginate: 2
@@ -66,10 +66,10 @@ friends:
 disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
-livere: true
+livere: false
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
-Gitment: false
+Gitment: true
 Gitment_owner: ''  # github用户名
 Gitment_repo: ''  # github博客存放的仓库名
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
