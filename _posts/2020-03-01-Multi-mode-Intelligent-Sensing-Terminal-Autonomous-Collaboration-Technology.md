@@ -8,9 +8,7 @@ cover: '../assets/img/Network.jpg'
 tags: Research
 ---
 
-# Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology
-
-### Smart Network and Application Team, Department of Network Engineering, UESTC
+## Smart Network and Application Team, Department of Network Engineering, UESTC
 
 #### May.2019 - Present	Research Record
 

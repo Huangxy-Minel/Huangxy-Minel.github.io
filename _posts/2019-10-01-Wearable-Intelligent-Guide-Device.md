@@ -9,7 +9,7 @@ tags: Project
 typora-root-url: ..\assets
 ---
 
-# A summary: Oct.2018 - Oct.2019
+## A summary: Oct.2018 - Oct.2019
 
 ### Researcher and Team leader, Chengdu, China
 
