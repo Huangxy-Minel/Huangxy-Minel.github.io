@@ -28,6 +28,8 @@ Image System Transmitter Framework:
 
 Image System Receiver Framework:
 
-![](https://huangxy-minel.github.io/assets/img/openmv.jpgTIM截图20200306001557.png)
+![](https://huangxy-minel.github.io/assets/img/TIM截图20200306001557.png)
+
+Transmission Result:
 
 ![](https://huangxy-minel.github.io/assets/img/图片2.png)

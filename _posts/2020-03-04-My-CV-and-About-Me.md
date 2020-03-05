@@ -17,3 +17,5 @@ You can browse my CV by click [this](https://huangxy-minel.github.io/assets/CV_X
 Email: huangxy_minel@foxmail.com
 
 Github: [https://github.com/Huangxy-Minel](https://github.com/Huangxy-Minel)
+
+![](https://huangxy-minel.github.io/assets/photo.jpeg)
