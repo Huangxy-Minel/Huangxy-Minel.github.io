@@ -3,7 +3,7 @@ layout: post
 title: 'My CV and About Me'
 date: 2020-03-04
 author: Xinyang Huang
-color: rgb(98,170,255)
+color: rgb(154,133,255)
 cover: '../assets/photo.jpeg'
 tags: Me
 ---

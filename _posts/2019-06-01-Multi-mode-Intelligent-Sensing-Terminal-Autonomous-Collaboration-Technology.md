@@ -3,7 +3,7 @@ layout: post
 title: 'Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology'
 date: 2019-06-01
 author: Xinyang Huang
-color: rgb(255,210,32)
+color: rgb(255,90,90)
 cover: '../assets/img/Network.jpg'
 tags: Research
 ---

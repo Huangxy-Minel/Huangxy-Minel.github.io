@@ -3,7 +3,7 @@ layout: post
 title: 'Long-distance Anti-interference Communication System for Rescue and Disaster Relief'
 date: 2019-07-02
 author: Xinyang Huang
-color: rgb(98,170,255)
+color: rgb(154,133,255)
 cover: '../assets/img/海报.jpg'
 tags: Project
 ---

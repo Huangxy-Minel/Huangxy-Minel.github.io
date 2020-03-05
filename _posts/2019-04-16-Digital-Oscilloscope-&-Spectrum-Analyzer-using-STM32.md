@@ -3,7 +3,7 @@ layout: post
 title: 'Digital Oscilloscope & Spectrum Analyzer using STM32'
 date: 2019-04-16
 author: Xinyang Huang
-color: rgb(154,133,255)
+color: rgb(255,210,32)
 cover: '../assets/img/digital1.jpg'
 tags: Project
 ---

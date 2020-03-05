@@ -3,10 +3,10 @@ layout: post
 title: 'Digital Musical Instrument Based on Matlab'
 date: 2019-07-16
 author: Xinyang Huang
-color: rgb(154,133,255)
-cover: '../assets/guide_device1.JPG'
+color: rgb(255,210,32)
+cover: '..\assets\img\TIM截图20200305234440.png'
 tags: Research
-typora-root-url: ..\assets\img\TIM截图20200305234440.png
+typora-root-url: ..\assets
 ---
 
 # The combination of music and DSP

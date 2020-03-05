@@ -18,6 +18,10 @@ Designed a long-distance synchronous sampling system based on PTP and TCP/IP pro
 
 Achieved <5% error between the reproduced signals, <10ms sync time error, under 20 MHz/s signal sampling rate.
 
+### Award:
+
+The second prize in Electronic Design Competition of southwest China (top 2%) 
+
 ![](https://huangxy-minel.github.io/assets/img/1583426487771.jpeg)
 
 ![](https://huangxy-minel.github.io/assets/img/1583426497493.jpeg)

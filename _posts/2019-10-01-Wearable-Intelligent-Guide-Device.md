@@ -3,7 +3,7 @@ layout: post
 title: 'Wearable Intelligent Guide Device'
 date: 2019-10-01
 author: Xinyang Huang
-color: rgb(154,133,255)
+color: rgb(255,90,90)
 cover: '../assets/guide_device1.JPG'
 tags: Project
 typora-root-url: ..\assets
@@ -52,3 +52,5 @@ A Wearable Intelligent Blind Guide Device (current status: Publication of invent
 The second prize in “Challenge Cup” Science and Technology Competition (Sichuan Division)(top %1)
 
 The third prize in "Internet +" Innovation Competition (Sichuan Division) (top 3%)
+
+National Innovation and Entrepreneurship Excellent Project (top 1%)
