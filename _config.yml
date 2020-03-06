@@ -70,10 +70,10 @@ livere: false
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: true
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
-client_id: ''  # 注册 OAuth Application 后获得的 client_id
-client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
+Gitment_owner: 'Huangxy-Minel'  # github用户名
+Gitment_repo: 'Huangxy-Minel.github.io'  # github博客存放的仓库名
+client_id: 'bf784573be373161957b'  # 注册 OAuth Application 后获得的 client_id
+client_secret: '8e679a4a0f8f0484b020e5876efbd8e0b934cb4e'  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
