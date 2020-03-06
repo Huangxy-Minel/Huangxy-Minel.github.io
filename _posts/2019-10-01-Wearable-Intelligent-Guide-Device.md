@@ -17,7 +17,7 @@ Complete project: [https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-D
 
 ## Thermal Imaging Vision & Ultrasonic Obstacle Avoidance System
 
-Designed Thermal Imaging Vision & Ultrasonic Obstacle Avoidance System, which recognized obstacle types through neural network algorithms, and measured distance to obstacles via the ultrasound system with accuracy 1 cm.  
+Designed Thermal Imaging Vision & Ultrasonic Obstacle Avoidance System, which recognized obstacle types through neural network algorithms, and measured distance to obstacles via the ultrasound system with accuracy 1 cm.
 
 The vision system uses Openmv, a lightweight vision module based on Python. Official Website is [https://openmv.io/](https://openmv.io/). We used it to implement image recognition, Apriltag positioning and other functions.
 
@@ -25,7 +25,7 @@ The vision system uses Openmv, a lightweight vision module based on Python. Offi
 
 ## GPS & Inertial Navigation & Vision Navigation System
 
-Designed GPS & Inertial Navigation & Vision Navigation System, which realized navigation by calling navigation app software interface, and achieved accurate velocity measurement via EKF algorithm and Kalman filter. Indoor navigation system error can be ±50 cm without visual calibration and ±15 cm with visual calibration.
+Designed GPS & Inertial Navigation & Vision Navigation System, achieving navigation by calling a navigation app software interface, and achieving accurate velocity measurement via EKF algorithm and Kalman filter. Indoor navigation system error could be ±50 cm without visual calibration and ±15 cm with visual calibration. 
 
 GPS navigation is already a very mature technology. Here we directly implement navigation through the Google Maps API. Compared with GPS, indoor positioning and navigation always have problems such as instability, position shift, and inability to eliminate errors. Therefore, the Kalman filter and visual positioning technology are introduced in the traditional inertial navigation mode.
 
@@ -45,12 +45,12 @@ The picture below is a brochure we used for publicity at the time, designed by *
 
 ## Patent
 
-A Wearable Intelligent Blind Guide Device (current status: Publication of invention patent application), Patent number: CN201910639192.3.
+A Wearable Intelligent Blind Guide Device (Current status: publication of invention patent application), Patent number: CN201910639192.3
 
 ## Awards
 
-The second prize in “Challenge Cup” Science and Technology Competition (Sichuan Division)(top %1)
+Second prize in “Challenge Cup” Science and Technology Competition (Sichuan Division) (top 1%)
 
-The third prize in "Internet +" Innovation Competition (Sichuan Division) (top 3%)
+Third prize in "Internet +" Innovation Competition (Sichuan Division) (top 3%)
 
-National Innovation and Entrepreneurship Excellent Project (top 1%)
+National Innovation and Entrepreneurship Excellent Project (top 1%) 

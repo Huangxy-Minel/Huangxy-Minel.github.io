@@ -14,11 +14,11 @@ tags: Research
 
 Complete project: [https://github.com/Huangxy-Minel/Digital-Musical-Instrument-Based-on-Matlab](https://github.com/Huangxy-Minel/Digital-Musical-Instrument-Based-on-Matlab)
 
-And you can listen the final song by [this](https://huangxy-minel.github.io/assets/スパークル .wav). 
+And you can listen the complete song by [this](https://huangxy-minel.github.io/assets/スパークル .wav). 
 
-Synthesized different instrument sounds (piano, wooden guitar, violin and drum) in the time and frequency domains via analysis over the physical sound mechanism of the instrument, and wrote digital reverbs and equalizers to modify the sound effects. 
+Synthesized different instrument sounds (piano, guitar, bass, violin, and drum) in time and frequency domains by analyzing physical sound mechanisms of the instrument; wrote digital reverbs and equalizers to modify the sound effects.
 
-Used FL Studio to compose digital synthesized sounds into tracks, and adjusted them in real time through Matlab.
+Used FL Studio to compose digital synthesized sounds into tracks; adjusted them in real time using MATLAB. 
 
 ![](https://huangxy-minel.github.io/assets/img/TIM截图20200305234440.png)
 

@@ -16,11 +16,11 @@ Complete project: [https://github.com/Huangxy-Minel/Long-distance-synchronous-sa
 
 Designed a long-distance synchronous sampling system based on PTP and TCP/IP protocols using STM32&DB83640.
 
-Achieved <5% error between the reproduced signals, <10ms sync time error, under 20 MHz/s signal sampling rate.
+Achieved an error below 5% between the reproduced signals, less than 10ms sync time error, and under 20 MHz/s signal sampling rate.
 
 ### Award:
 
-The second prize in Electronic Design Competition of southwest China (top 2%) 
+Second prize in Electronic Design Competition of southwest China (top 2%) 
 
 ![](https://huangxy-minel.github.io/assets/img/1583426487771.jpeg)
 

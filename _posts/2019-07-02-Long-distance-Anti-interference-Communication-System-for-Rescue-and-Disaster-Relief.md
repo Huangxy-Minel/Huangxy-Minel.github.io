@@ -20,7 +20,7 @@ Speech System Framework:
 
 ![](https://huangxy-minel.github.io/assets/img/图片1.png)
 
-Designed a QPSK-based image transmission protocol using Matlab & Simulink with bit error rate <0.0003 (Receiver's SNR is 10dB). 
+Designed a QPSK-based image transmission protocol using MATLAB & Simulink with bit error rate of less than 0.0003 (receiver's SNR is 10dB).
 
 Image System Transmitter Framework:
 
