@@ -69,7 +69,7 @@ disqus_url: '' # https://abc.disqus.com/embed.js
 livere: true
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
-Gitment: false
+Gitment: true
 Gitment_owner: 'Huangxy-Minel'  # github用户名
 Gitment_repo: 'Huangxy-Minel.github.io'  # github博客存放的仓库名
 client_id: 'bf784573be373161957b'  # 注册 OAuth Application 后获得的 client_id
