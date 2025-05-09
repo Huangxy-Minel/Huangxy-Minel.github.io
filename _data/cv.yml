@@ -1,0 +1,101 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Xudong Liao (廖旭东)
+    - name: Languages
+      value: Mandarin, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D
+      institution: Hong Kong University of Science and Technology
+      year: 2020.8 - now
+      description:
+        - Major in Computer Science, CSE department.
+        - Advised by Prof. Kai Chen in iSING lab.
+    - title: B.Eng
+      institution: Wuhan University
+      year: 2016.9 - 2020.6
+      description:
+        - Major in Software Engineering, School of Computer Science.
+        - Won Outstanding Graduate.（武汉大学优秀毕业生）
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: UG Research Intern
+      institution: iSING Lab, HKUST
+      year: 2019.11 - 2020.6
+      description:
+        - Advised by Prof. Kai Chen
+        - Research on the topic of "Multi-objective congestion control".
+    - title: UG Research Assistant
+      institution: Wuhan University
+      year: 2019.3 - 2019.11
+      description:
+        - Advised by Prof. Yanjiao Chen
+        - Research on the topic of "Deep reinforcement learning based Internet congestion control".
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - year: 2023 Fall
+      items:
+        - TA of COMP2611 Computer Organization, HKUST
+    - year: 2023 Spring
+      items:
+        - TA of COMP3511 Operating System, HKUST
+    - year: 2022 Spring
+      items:
+        - TA of COMP3511 Operating System, HKUST
+    - year: 2021 Spring
+      items:
+        - TA of COMP3511 Operating System, HKUST
+
+- title: Academic Services
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - TON Reviewer
+        - NSDI'25 Review Helper
+    - year: 2023
+      items:
+        - Web chair of 7th Asia-Pacific Workshop on Networking (APNet'23)
+    - year: 2022
+      items:
+        - CoNEXT'22 Review Helper
+        - APNet'22 Review Helper
+    - year: 2021
+      items:
+        - INFOCOM'22 Review Helper
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - EuroSys 2024 Travel Grant, ACM SIGOPS
+        - NSDI 2024 Travel Grant, USENIX Association
+    - year: 2020
+      items:
+        - Postgraduate Studentship, HKUST
+    - year: 2020
+      items:
+        - Outstanding Graduate, Wuhan University
+    - year: 2019
+      items:
+        - Yi. scholarship, Wuhan University
+    - year: 2018
+      items:
+        - Yi. scholarship, Wuhan University
+    - year: 2017
+      items:
+        - Yi. scholarship, Wuhan University
+
+- title: Other Interests
+  type: list
+  contents:
+    - League of Legends, hiking
