@@ -26,4 +26,4 @@ I am a Ph.D. candidate at the [Hong Kong University of Science and Technology (H
 - Operating Systems
 - Datacenter Networking
 
-I am currently developing [Axio](https://github.com/axio-project), an open-source framework for accelerated network I/O systems. Axio aims to deliver high-performance, programmable, and extensible network services for datacenter applications. I am always open to discussion and collaboration on topics related to datacenter systems, networking, and system software.
+I am currently developing [Axio](https://github.com/axio-project), an open-source framework for accelerated network I/O systems. Axio aims to deliver high-performance, programmable, and extensible network services for datacenter applications. I am always open to discussions and collaborations on research and open-source projects.
