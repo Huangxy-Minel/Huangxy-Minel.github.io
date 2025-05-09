@@ -13,7 +13,7 @@ description: Personal website of Xinyang HUANG
 # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: token.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://huangxy-minel.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -79,8 +79,8 @@ keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # xudong-liao-602091140
-scholar_userid: # GXo0S_4AAAAJ
+linkedin_username: huangxy-minel
+scholar_userid: m_r_FgIAAAAJ
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
