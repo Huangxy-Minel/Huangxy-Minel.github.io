@@ -133,8 +133,8 @@ blog_nav_title: # your blog must have a title for it to be displayed in the nav 
 # pagination:
 # enabled: true
 
-related_blog_posts:
-enabled: false
+# related_blog_posts:
+# enabled: false
 # max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -167,14 +167,14 @@ enabled: false
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /:collection/:title/
-  projects:
-    output: true
-    permalink: /:collection/:title/
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
+  #   permalink: /:collection/:title/
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:title/
 
 announcements:
   enabled: true
