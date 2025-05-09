@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://huangxy-minel.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://Huangxy-Minel.github.io/sitemap.xml
