@@ -40,7 +40,7 @@
   series   = {APNet'25},
   title    = {Cache-Aware I/O Rate Control for RDMA},
   author   = {Li, Qijing and Huang, Xinyang and Liu, Bowen and Li, Pengbo and Zhang, Junxue and Chen, Kai},
-  booktitle  = {9th Asia-Pacific Workshop on Networking (APNet '25)},
+  booktitle  = {9th Asia-Pacific Workshop on Networking},
   address    = {},
   selected = {true},
   abstract = {Remote Direct Memory Access (RDMA) has become a cornerstone technology in modern datacenter networks due to its high throughput and extremely low latency. However, recent works have revealed that congestion arises in the "last mile" of the RDMA I/O path—--between DRAM and CPU registers--—due to inefficiencies in the memory hierarchy, where severe cache misses and memory bandwidth contention degrade performance. We identify the root cause of this I/O congestion as the speed mismatch between network ingress and CPU processing, which leads to data accumulation and, eventually, Last-Level Cache (LLC) overflow. To address this issue, we propose RhyR, a credit-based rate control mechanism that dynamically aligns network ingress speed with CPU processing speed. Our preliminary evaluation on eRPC over RDMA, a widely used RPC framework, demonstrates that RhyR effectively mitigates I/O congestion, reducing tail latency by up to 1.40x and improving throughput by up to 1.35x compared to prior work.}
@@ -59,6 +59,17 @@
   abstract = {Machine learning (ML) clusters stack multiple network interface cards (NICs) within each server to improve GPU communication bandwidth. However, existing systems fall short in fully utilizing NICs because of statically binding GPU traffic to NICs and PCIe bottleneck. This leads to suboptimal performance under imbalanced traffic, such as when GPUs process different LLM serving requests and training models with varying communication pattern. We propose FuseLink to enable efficient GPU communication over multiple NICs. FuseLink extends inter-server network by integrating high-speed intra-server connections, and recognizes GPUs to efficiently relay traffic to idle NICs. We implement FuseLink and integrate it into NCCL, so that ML applications can use FuseLink seamlessly without code modifications. Compared to NCCL with PXN, we verify that FuseLink can achieve 212GBps bandwidth between two inter-server GPUs and bring speedup on producing the first token in LLM model serving by 1.06-2.89, mixture-of-expert (MoE) training by up to 1.3x, and recommendation model training by up to 1.2x.}
 }
 
+@inproceedings{leo-infocom,
+  abbr      = {INFOCOM},
+  series    = {INFOCOM'25},
+  year      = {2025},
+  title     = {A Generic and Efficient Communication Framework for Message-level In-Network Computing},
+  author    = {Wan, Xinchen and Li, Luyang and Tian, Han and Liao, Xudong and Huang, Xinyang and Zeng, Chaoliang and Wang, Zilong and Yang, Xinyu and Cheng, Ke and Ning, Qingsong and Liu, Guyue and Luo, Layong and Chen, Kai},
+  booktitle = {Proceedings of the IEEE International Conference on Computer Communications},
+  pdf       = {leo-infocom25.pdf},
+  selected  = {false}
+}
+
 @inproceedings{genibatch-eurosys,
   abbr      = {EuroSys},
   year      = {2024},
@@ -72,17 +83,6 @@
   selected = {true},
   abstract = {Cross-silo privacy-preserving machine learning (PPML) adopts Partial Homomorphic Encryption (PHE) for secure data combination and high-quality model training across multiple organizations (e.g., medical and financial). However, PHE introduces significant computation and communication overheads due to data inflation. Batch optimization is an encouraging direction to mitigate the problem by compressing multiple data into a single ciphertext. While promising, it is impractical for a large number of cross-silo PPML applications due to the limited vector operations support and severe data corruption.
   In this paper, we present GeniBatch, a batch compiler that translates a PPML program with PHE into an efficient program with batch optimization. GeniBatch adopts a set of conversion rules to allow PHE programs involving all vector operations required in cross-silo PPML and ensures end-to-end result consistency before/after compiling. By proposing bit-reserving algorithms, GeniBatch avoids bit-overflow for the correctness of compiled programs and maximizes the compression ratio. We have integrated GeniBatch into FATE, a representative cross-silo PPML framework, and provided SIMD APIs to harness hardware acceleration. Experiments across six popular applications show that GeniBatch achieves up to 22.6x speedup and reduces network traffic by 5.4x-23.8x for generic cross-silo PPML applications.}
-}
-
-@inproceedings{leo-infocom,
-  abbr      = {INFOCOM},
-  series    = {INFOCOM'25},
-  year      = {2025},
-  title     = {A Generic and Efficient Communication Framework for Message-level In-Network Computing},
-  author    = {Wan, Xinchen and Li, Luyang and Tian, Han and Liao, Xudong and Huang, Xinyang and Zeng, Chaoliang and Wang, Zilong and Yang, Xinyu and Cheng, Ke and Ning, Qingsong and Liu, Guyue and Luo, Layong and Chen, Kai},
-  booktitle = {Proceedings of the IEEE International Conference on Computer Communications},
-  pdf       = {leo-infocom25.pdf},
-  selected  = {false}
 }
 
 
