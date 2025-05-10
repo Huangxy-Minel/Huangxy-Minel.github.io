@@ -1,10 +1,14 @@
 "liu":
-  - firstname: ["bowen"]
+  - firstname: ["Bowen"]
     url: https://albertbowen.github.io/
 
 "huang":
-  - firstname: ["zhuobin"]
+  - firstname: ["Zhuobin"]
     url: https://zobinhuang.github.io/sec_about/
+
+"li"
+  - firstname: ["Wenxue"]
+    url: https://leewxgit.github.io/index.html
 
 "wang":
   - firstname: ["Hao"]
@@ -13,6 +17,8 @@
 "zeng":
   - firstname: ["Chaoliang"]
     url: https://hydrazeng.github.io
+  - firstname: ["Gaoxiong"]
+    url: https://gaoxiong.site/
 
 "tian":
   - firstname: ["Han"]
