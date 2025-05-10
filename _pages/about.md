@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate at the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/), advised by [Prof. Kai Chen](http://www.cse.ust.hk/~kaichen/). Prior to that, I received my M.Phil. in Computer Science from [HKUST](https://www.ust.hk/) and my B.Eng. in Network Engineering from [UESTC](https://www.uestc.edu.cn/) in 2023 and 2021, respectively.
+I am a Ph.D. candidate at the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/), advised by [Prof. Kai Chen](http://www.cse.ust.hk/~kaichen/). Prior to that, I received my M.Phil. in Computer Science from [HKUST](https://www.ust.hk/) and my B.Eng. in Network Engineering from [UESTC](https://www.uestc.edu.cn/) in 2023 and 2021, respectively. Additionally, I am fortunate to collaborate closely with [Prof. Junxue Zhang](https://snowzjx.me/) and [Dr. Bowen Liu](https://albertbowen.github.io/) on several projects.
 
 #### Research Interests
 
@@ -26,4 +26,4 @@ I am a Ph.D. candidate at the [Hong Kong University of Science and Technology (H
 - Operating Systems
 - Datacenter Networking
 
-I am currently working on [Axio](https://github.com/axio-project), an open-source framework for accelerated network I/O systems. Axio aims to deliver high-performance, programmable, and extensible network services for datacenter applications. I am always open to discussions and collaborations on research and open-source projects.
+I am currently working on [Axio](https://github.com/axio-project), with my best friend [Zhuobin Huang](https://zobinhuang.github.io/sec_about/), an open-source framework for accelerated network I/O systems. Axio aims to deliver high-performance, programmable, and extensible network services for datacenter applications. I am always open to discussions and collaborations on research and open-source projects.
