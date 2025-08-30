@@ -47,6 +47,9 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - year: 2025 Fall
+      items:
+        - TA of COMP2611 Computer Organization, HKUST
     - year: 2025 Spring
       items:
         - TA of COMP3511 Operating System, HKUST
@@ -79,6 +82,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Third Place, 3rd NVIDIA DPU China Hackathon
     - year: 2022-2025
       items:
         - Postgraduate Studentship, HKUST
