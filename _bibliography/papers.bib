@@ -8,7 +8,8 @@
   author   = {Liao, Xudong and Sun, Yijun and Tian, Han and Wan, Xinchen and Jin, Yilun and Wang, Zilong and Ren, Zhenghang and Huang, Xinyang and Li, Wenxue and Tse, Kin Fai and Zhong, Zhizhen and Liu, Guyue and Zhang, Ying and Ye, Xiaofeng and Zhang, Yiming and Chen, Kai},
   booktitle  = {39th ACM Special Interest Group on Data Communication},
   address    = {},
-  selected = {false}
+  selected = {true},
+  abstract = {Mixture-of-Expert (MoE) models outperform conventional models by selectively activating different subnets, named experts, on a per-token basis. This gated computation generates dynamic communications that cannot be determined beforehand, challenging the existing GPU interconnects that remain static during distributed training. In this paper, we advocate for a first-of-its-kind system, called MixNet, that unlocks topology reconfiguration during distributed MoE training. Towards this vision, we first perform a production measurement study and show that the MoE dynamic communication pattern has strong locality, alleviating the need for global reconfiguration. Based on this, we design and implement a regionally reconfigurable high-bandwidth domain that augments existing electrical interconnects using optical circuit switching (OCS), achieving scalability while maintaining rapid adaptability. We build a fully functional MixNet prototype with commodity hardware and a customized collective communication runtime. Our prototype trains state-of-the-art MoE models with in-training topology reconfiguration across 32 A100 GPUs. Large-scale packet-level simulations show that MixNet achieves performance comparable to a non-blocking fat-tree fabric while boosting the networking cost efficiency (e.g., performance per dollar) of four representative MoE models by 1.2×–1.5× and 1.9×–2.3× at 100 Gbps and 400 Gbps link bandwidths, respectively.}
 }
 
 
@@ -32,7 +33,10 @@
   author   = {Li, Wenxue and Liu, Xiangzhou and Zhang, Yunxuan and Wang, Zihao and Gu, Wei and Zeng, Gaoxiong and Ren, Shoushou and Huang, Xinyang and Ren, Zhenghang and Liu, Bowen and Zhang, Junxue and Chen, Kai},
   booktitle  = {39th ACM Special Interest Group on Data Communication},
   address    = {},
-  selected = {false}
+  award      = {Best Student Paper},
+  selected = {true},
+  abstract = {Due to the high operational complexity and limited deployment scale of lossless RDMA networks, the community has been exploring efficient RDMA communication over lossy fabrics. State-of-the-art (SOTA) lossy RDMA solutions implement a simplified selective repeat mechanism in RDMA NICs (RNICs) to enhance loss recovery efficiency. However, these solutions still face performance challenges, such as unavoidable ECMP hash collisions and excessive retransmission timeouts (RTOs). In this paper, we revisit RDMA reliability with the goals of being independent of PFC, compatible with packet-level load balancing, free from RTO, and friendly to hardware offloading. To this end, we propose DCP, a transport architecture that co-designs both the switch and RNICs, fully meeting the design goals. At its core, DCP-Switch introduces a simple yet effective lossless control plane, which is leveraged by DCP-RNIC to enhance reliability support for high-speed lossy fabrics, primarily including header-only-based retransmission and bitmap-free packet tracking. We prototype DCP-Switch using P4 switch and DCP-RNIC using FPGA. Extensive experiments demonstrate that DCP achieves 1.6× and 2.1× performance improvements, compared to SOTA lossless and lossy RDMA solutions, respectively.
+}
 }
 
 @article{swift-arxiv,
